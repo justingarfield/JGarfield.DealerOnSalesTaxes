@@ -12,7 +12,7 @@ namespace JGarfield.DealerOnSalesTaxes.App
         static void Main(string[] args)
         {
             // Wanted to show knowledge of using a Dependency Injection (DI) Container
-            // Normally wouldn't just build a host and run call Run on it, but this 
+            // Normally wouldn't just build a host and NOT call Run on it, but this 
             // works for purposes of a sample project.
             using (IHost host = CreateHostBuilder(args).Build())
             {

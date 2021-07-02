@@ -9,7 +9,7 @@ This solution contains the DealerOn Coding Test projects, code, and unit tests.
 * Definitely some missing Unit Test cases, but didn't want to go nuts since this is an interview project.
 * Used xUnit Theories on some Unit Tests to show writing of tests without loops and logic inside of them.
 * Did not achieve full code coverage, just wanted to show that I know about it and know how to use things like Coverlet, Cobertura, report-generator, and the dotnet tooling to get those metrics.
-* Could have introduce usage of something like AutoMapper for mapping the Model -> Item DSL class, but didn't want to overcompliacte things.
+* Could have introduced usage of something like AutoMapper for mapping the Model -> Item DSL class, but didn't want to overcompliacte things.
 
 # Technology Used
 
